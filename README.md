@@ -1,4 +1,4 @@
-# python-automations
+# gtfs to geojson
 Please extract gtfs zip file into './data/gtfs' folder
 e.g. '/data/gtfs/stops.txt','/data/gtfs/trips.txt' etc...
 
